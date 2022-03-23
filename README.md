@@ -1,6 +1,6 @@
 
 ## Markdown Cheatsheet
----------------------------
+
 #### Quick reference to [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Thank you.
 
 <a name="headers"/>
